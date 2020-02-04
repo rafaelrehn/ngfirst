@@ -2,4 +2,4 @@
 
 https://rafaelrehn.github.io/ngfirst
 
-Primeiro teste com angular
+Primeiro projeto angular apenas para praticar
